@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<object_repository>
+
+    <page name="verimi">
+        <element name="deLang" by="id" identifier="langDe"/>
+        <element name="emailHeading" by="xpath" identifier="//label[text()='E-Mail-Adresse']"/>
+        <element name="txtEmail" by="id" identifier="emailField"/>
+        <element name="txtPass" by="id" identifier="passwordField"/>
+        <element name="btnLogin" by="id" identifier="loginButton"/>
+        <element name="myProfile" by="id" identifier="menu-profile"/>
+
+        <element name="subTitle" by="className" identifier="subTitleKey"/>
+        <element name="tagNameP" by="tagName" identifier="p"/>
+    </page>
+
+</object_repository>

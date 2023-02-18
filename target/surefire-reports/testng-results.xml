@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="34628" started-at="2023-01-23T19:17:41 IST" finished-at="2023-01-23T19:18:15 IST">
+    <groups>
+    </groups>
+    <test name="Verimi" duration-ms="34628" started-at="2023-01-23T19:17:41 IST" finished-at="2023-01-23T19:18:15 IST">
+      <class name="testcases.Verimi">
+        <test-method status="PASS" signature="setup()[pri:0, instance:testcases.Verimi@4229bb3f]" name="setup" is-config="true" duration-ms="17296" started-at="2023-01-23T19:17:41 IST" finished-at="2023-01-23T19:17:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testcases1()[pri:0, instance:testcases.Verimi@4229bb3f]" name="testcases1" duration-ms="3837" started-at="2023-01-23T19:17:58 IST" finished-at="2023-01-23T19:18:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcases1 -->
+        <test-method status="PASS" signature="testcases2()[pri:0, instance:testcases.Verimi@4229bb3f]" name="testcases2" duration-ms="12179" started-at="2023-01-23T19:18:02 IST" finished-at="2023-01-23T19:18:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcases2 -->
+        <test-method status="PASS" signature="testcases3()[pri:0, instance:testcases.Verimi@4229bb3f]" name="testcases3" duration-ms="26" started-at="2023-01-23T19:18:14 IST" finished-at="2023-01-23T19:18:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcases3 -->
+        <test-method status="PASS" signature="testcases4()[pri:0, instance:testcases.Verimi@4229bb3f]" name="testcases4" duration-ms="434" started-at="2023-01-23T19:18:14 IST" finished-at="2023-01-23T19:18:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcases4 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.Verimi@4229bb3f]" name="tearDown" is-config="true" duration-ms="545" started-at="2023-01-23T19:18:15 IST" finished-at="2023-01-23T19:18:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.Verimi -->
+    </test> <!-- Verimi -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
